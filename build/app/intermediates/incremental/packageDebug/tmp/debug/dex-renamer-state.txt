@@ -1,0 +1,4 @@
+#Tue Feb 12 14:47:15 CET 2019
+base.0=/home/khaled/flutter_project/codelab_part1/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
